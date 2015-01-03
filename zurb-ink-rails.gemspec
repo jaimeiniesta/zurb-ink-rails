@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ['']
   spec.description = %q{ZURB Ink for Rails asset pipeline}
   spec.summary = %q{ZURB Ink for Rails asset pipeline}
-  spec.homepage = 'https://github.com/NealKemp/snapcat'
+  spec.homepage = 'https://github.com/nneal/zurb-ink-rails'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 1.9.3'
 
